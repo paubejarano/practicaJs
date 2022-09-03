@@ -7,7 +7,7 @@ while (true) {
   let texto = prompt("ingrese una palabra:");
 
   if (texto === null) break;
-  cadena = cadena + texto;
+  cadena = cadena + texto + "-";
 }
 
 console.log("esto es lo que se ingreso: " + cadena);
