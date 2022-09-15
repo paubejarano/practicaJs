@@ -1,0 +1,27 @@
+Tarea #1
+1. Leer dos números enteros, presentar por pantalla el promedio de ellos.
+2. Convertir temperatura en grados Fahrenheit a grados centígrados. Presentar por
+pantalla ambos valores con sus unidades.
+T°C = 5/9 (T°F - 32)
+3. Ingresar los lados de un rectángulo, presentar por pantalla su perímetro (suma de sus lados) y
+su superficie (base * altura).
+Tarea #2
+1. Ingresar dos números enteros, presentar por pantalla el mayor de ellos.
+2. Ingresar tres valores positivos, indicar si son lados de un triángulo rectángulo (3 lados
+iguales). Presentar por pantalla el mensaje correspondiente.
+3. (opcional) Ingresar dos números, ordenarlos en forma ascendente y presentarlos por pantalla.
+En caso de ser iguales imprimir un mensaje que diga " Son Iguales".
+Tarea #3
+1. Ingresar N números, presentar por pantalla el promedio de ellos.
+2. Se ingresan N valores numéricos. Se desea saber cuántos son positivos, cuántos negativos y
+cuántos iguales a cero.
+Tarea #4
+1. Rehacer los puntos 2 y 3 de la tarea #3, utilizando arreglos.
+Tarea #5
+1. Un juego consiste en tirar un dado y sumar sus puntos hasta que el valor obtenido en un tiro
+sea par. Diseñar un algoritmo que pida el valor del tiro y presente por pantalla la cantidad de
+tiros y el puntaje total, sin contar el último tiro.
+Tarea #6
+1. Evaluar:
+a) 15 + 5 >= 20 / 1 and false
+b) true or false and !(20 + 2 < 5) 
